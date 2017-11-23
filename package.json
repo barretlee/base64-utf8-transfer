@@ -1,6 +1,6 @@
 {
   "name": "base64-utf8-transfer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "base64 for utf8 character",
   "main": "lib/index.js",
   "scripts": {
