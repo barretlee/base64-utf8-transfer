@@ -1,0 +1,26 @@
+{
+  "name": "base64-utf8",
+  "version": "0.0.1",
+  "description": "base64 for utf8 character",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barretlee/base64-utf8.git"
+  },
+  "keywords": [
+    "base64",
+    "utf8"
+  ],
+  "author": "Barret Lee <barret.china@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barretlee/base64-utf8/issues"
+  },
+  "homepage": "https://github.com/barretlee/base64-utf8#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
